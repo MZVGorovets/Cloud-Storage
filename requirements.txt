@@ -1,0 +1,17 @@
+server:
+
+pip install cryptography
+
+pip install pycryptodome
+
+
+
+
+
+client:
+
+pip install cryptography
+
+pip3 install customtkinter
+
+pip install pycryptodome
