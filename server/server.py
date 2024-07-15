@@ -9,9 +9,6 @@ from database import *
 from operations import *
 
 
-DB_FILE = r'd:\my_first_table10.db'
-
-
 class Server():
     def __init__(self, port):
         if not os.path.exists("files"):
