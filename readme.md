@@ -18,6 +18,6 @@ Welcome to the Cloud Storage project, a client-server application designed to en
 
 2. **Requirements:** Copy the contents of `requirements.txt` and paste it into the terminal.
 
-3. **Server Setup:**  Copy the path to the `Server.py` and paste it into the terminal like this: <br> `python PATH\Server.py`<br> If you wish, you can set your own Port like this: <br> `python PATH\Server.py <PORT>`<br> Otherwise the Port will be automatically set to 2000.
+3. **Server Setup:**  Copy the path to the `server.py` and paste it into the terminal like this: <br> `python PATH\server.py`<br> If you wish, you can set your own Port like this: <br> `python PATH\server.py <PORT>`<br> Otherwise the Port will be automatically set to 2000.
 
-4. **Client Setup:** Copy the path to the `Client.py` and paste it into the terminal like this: <br> `python PATH\Client.py`<br> If you wish, you can set your own IP and/or Port like this: <br> `python PATH\Client.py <IP> <PORT>`<br> Otherwise the IP and/or Port will be automatically set to 127.0.0.1(IP) and/or 2000(Port)
+4. **Client Setup:** Copy the path to the `client.py` and paste it into the terminal like this: <br> `python PATH\client.py`<br> If you wish, you can set your own IP and/or Port like this: <br> `python PATH\client.py <IP> <PORT>`<br> Otherwise the IP and/or Port will be automatically set to 127.0.0.1(IP) and/or 2000(Port)
